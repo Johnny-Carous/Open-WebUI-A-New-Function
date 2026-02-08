@@ -1,4 +1,3 @@
-# Open-WebUI
-#一键运行安装Open-WebUI依赖包的方法
+# Open-WebUI-New-Function
 
-#一键运行打开Open-WebUI界面的方法
+一键安装Open-WebUI依赖包和运行界面的方法——基于Python
